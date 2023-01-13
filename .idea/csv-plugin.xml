@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\history_one_metric_cleared.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\t90.csv">
           <value>
             <Attribute>
